@@ -13,3 +13,8 @@ img {
 }
 
 /* ------------- pod čáru piš tvé styly ------------- */
+
+masonry-layout {
+	max-width: 700px;
+	margin: 0 auto;
+}
